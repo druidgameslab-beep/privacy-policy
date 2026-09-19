@@ -1,13 +1,3 @@
-
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
 <h1>Privacy Policy for Crazy Racer 2D</h1>
 
 <p>At Crazy Racer 2D, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Crazy Racer 2D and how we use it.</p>
@@ -54,5 +44,3 @@
 <h2>Consent</h2>
 
 <p>By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
-    </body>
-    </html>
